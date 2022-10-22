@@ -1,0 +1,9 @@
+.App {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 10% 90%;
+}
+.App-title {
+    text-align: center;
+    font-size: 2.5rem;
+}

@@ -1,0 +1,17 @@
+.Game {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 1rem;
+    margin: 2.5rem auto;
+    width: 40%;
+    height: 70vh;
+    color: #FAF7F0;
+    font-size: 8rem;
+}
+.Game-cell {
+    border: solid 4px #FB2576;
+    border-radius: 15px;
+    width: 180px;
+    height: 180px;
+}

@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Tic-Tac-Toc con React.js
+
+**Puedes encontrar el video en youtube de este proyecto [aquí](https://www.youtube.com/watch?v=gzAuJWCaX20).**
+
+Este es un pequeño proyecto de React.js que tiene como fin aprender los conceptos básicos de esta libreria de JavaScript creando un pequeño juego del Tic-Tac-Toc.
+
+## Ejecuta el proyecto con npm ⬇
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
